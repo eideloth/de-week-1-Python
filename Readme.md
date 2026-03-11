@@ -6,8 +6,7 @@ Welcome! This repo contains everything you need for **Week 1** of the Data Engin
 
 ---
 
-## ⚡ Quick Start - Hello World
-
+## ⚡ Quick Start - Hello World again
 1. **Clone the repo**
 
 ```bash
